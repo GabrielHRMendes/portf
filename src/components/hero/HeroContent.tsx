@@ -52,7 +52,7 @@ export function HeroContent() {
           transition={{ duration: 0.90, delay: 0.18, ease }}
           className="text-balance text-[clamp(2.6rem,6.5vw,5.2rem)] font-extrabold leading-[1.04] tracking-tight text-white"
         >
-          Criamos{" "}
+          Crio{" "}
           <span className="gradient-text">sites</span>{" "}
           que fazem empresas{" "}
           <br className="hidden md:block" />

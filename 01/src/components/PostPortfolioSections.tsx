@@ -274,7 +274,7 @@ export function PostPortfolioSections() {
               Serviços que <span className="accent-word">transformam</span> empresas
             </h2>
             <p className="mx-auto mt-5 max-w-2xl text-base leading-7 text-white/64 md:text-lg">
-              Mais do que desenvolver sites, criamos soluções completas utilizando Inteligência
+              Mais do que desenvolver sites, crio soluções completas utilizando Inteligência
               Artificial, automações e sistemas personalizados.
             </p>
           </Reveal>

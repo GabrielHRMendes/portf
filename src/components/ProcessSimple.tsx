@@ -14,7 +14,7 @@ const steps = [
     number: "02",
     title: "Desenvolvimento",
     description:
-      "Criamos a solução com design premium, código limpo e performance otimizada.",
+      "Crio a solução com design premium, código limpo e performance otimizada.",
   },
   {
     number: "03",
