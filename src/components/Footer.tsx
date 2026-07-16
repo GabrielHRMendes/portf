@@ -53,18 +53,18 @@ const serviceLinks = [
 ];
 
 const socialIcons = [
-  { href: "https://wa.me/5511999999999", label: "WhatsApp", Icon: MessageCircle, external: true },
-  { href: "https://instagram.com/", label: "Instagram", Icon: IconInstagram, external: true },
+  { href: "https://wa.me/5537998668569", label: "WhatsApp", Icon: MessageCircle, external: true },
+  { href: "https://www.instagram.com/gabrielhrmendes/", label: "Instagram", Icon: IconInstagram, external: true },
   { href: "https://github.com/", label: "GitHub", Icon: IconGithub, external: true },
   { href: "https://linkedin.com/", label: "LinkedIn", Icon: IconLinkedin, external: true },
 ] as const;
 
 const contactLinks = [
-  { href: "https://wa.me/5511999999999", label: "WhatsApp", Icon: MessageCircle, external: true },
-  { href: "https://instagram.com/", label: "Instagram", Icon: IconInstagram, external: true },
+  { href: "https://wa.me/5537998668569", label: "WhatsApp", Icon: MessageCircle, external: true },
+  { href: "https://www.instagram.com/gabrielhrmendes/", label: "Instagram", Icon: IconInstagram, external: true },
   { href: "https://github.com/", label: "GitHub", Icon: IconGithub, external: true },
   { href: "https://linkedin.com/", label: "LinkedIn", Icon: IconLinkedin, external: true },
-  { href: "mailto:contato@gabrielmendes.dev", label: "contato@gabrielmendes.dev", Icon: Mail, external: false },
+  { href: "gabrielhrmendes0@gmail.com", label: "gabrielhrmendes0@gmail.com", Icon: Mail, external: false },
 ] as const;
 
 /* ─────────────────────────────────────────
