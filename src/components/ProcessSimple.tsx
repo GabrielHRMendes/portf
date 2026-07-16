@@ -8,7 +8,7 @@ const steps = [
     number: "01",
     title: "Planejamento",
     description:
-      "Entendemos seu negócio, mapeamos objetivos e definimos a estratégia ideal.",
+      "Entendo o seu negócio, mapeio objetivos e defino a estratégia ideal.",
   },
   {
     number: "02",
@@ -20,7 +20,7 @@ const steps = [
     number: "03",
     title: "Entrega & Suporte",
     description:
-      "Lançamos o projeto e oferecemos acompanhamento contínuo para garantir resultados.",
+      "Lanço o projeto e ofereço acompanhamento contínuo para garantir resultados.",
   },
 ];
 
@@ -34,7 +34,7 @@ export function ProcessSimple() {
             id="process-title"
             className="text-balance text-4xl font-black leading-[0.98] md:text-6xl"
           >
-            Como trabalhamos
+            Como trabalho
           </h2>
           <p className="mx-auto mt-5 max-w-2xl text-base leading-7 text-white/64 md:text-lg">
             Um processo simples, direto e focado em resultados.

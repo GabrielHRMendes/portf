@@ -28,7 +28,7 @@ export function FinalCTA() {
               Pronto para transformar sua presença digital?
             </h2>
             <p className="mx-auto mt-6 max-w-2xl text-base leading-7 text-white/66 md:text-lg">
-              Solicite um orçamento e descubra como podemos criar a solução perfeita para o seu negócio.
+              Solicite um orçamento e descubra como posso criar a solução perfeita para o seu negócio.
             </p>
             <div className="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row">
               <motion.a

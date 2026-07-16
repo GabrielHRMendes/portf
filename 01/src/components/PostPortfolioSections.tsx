@@ -59,7 +59,7 @@ const serviceCards = [
 ];
 
 const timeline = [
-  { icon: Search, title: "Entendemos seu negócio" },
+  { icon: Search, title: "Entendo o seu negócio" },
   { icon: ClipboardList, title: "Planejamos a solução" },
   { icon: Code2, title: "Desenvolvemos" },
   { icon: Rocket, title: "Implantamos" },
